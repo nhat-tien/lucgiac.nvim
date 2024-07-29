@@ -12,4 +12,8 @@ M.merge = function (t1, t2)
    return t1
 end
 
+M.switch = function (val, case)
+   case[val]()
+end
+
 return M

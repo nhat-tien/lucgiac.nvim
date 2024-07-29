@@ -1,3 +1,3 @@
 return {
-   disable_command = false
+   floating = "Hello"
 }

@@ -12,6 +12,7 @@ This plugin helps your Neovim interact with the Zellij CLI
 ```lua
 {
     "nhat-tien/lucgiac.nvim",
+    brand = "main"
     opts = {}
 }
 ```
